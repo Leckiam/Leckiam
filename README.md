@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leckiam GitHub stats](https://github-readme-stats.vercel.app/api?username=Leckiam&show_icons=true&theme=radical)
+![Leckiam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leckiam&show_icons=true&theme=radical)

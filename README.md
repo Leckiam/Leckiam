@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **Leckiam/Leckiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![hola](https://github-readme-stats.vercel.app/api?username=Leckiam&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Leckiam&&layout=compact&theme=radical)
+![Leckiam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leckiam&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leckiam&&layout=compact&theme=radical)
